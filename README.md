@@ -1,2 +1,2 @@
-# septlet
-A little daw about bees, like Septabee!
+# traw
+A little tracker/daw for people who come from daws/trackers!
